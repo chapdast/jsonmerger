@@ -1,9 +1,0 @@
-{
-  "company_management-v1-CompanyManagementService": {
-    "company_management-v1-CompanyManagementService": "CompanyManagementService",
-    "company_management-v1-CompanyManagementService/CompanyInformation": "CompanyInformation",
-    "company_management-v1-CompanyManagementService/DeleteFile": "DeleteFile",
-    "company_management-v1-CompanyManagementService/UpdateCompanyInformation": "UpdateCompanyInformation",
-    "company_management-v1-CompanyManagementService/UploadFile": "UploadFile"
-  }
-}
