@@ -1,0 +1,22 @@
+{
+  "asset_management-v1-AssetManagementService": {
+    "asset_management-v1-AssetManagementService": "AssetManagementService",
+    "asset_management-v1-AssetManagementService/Asset": "Asset",
+    "asset_management-v1-AssetManagementService/AssetTags": "AssetTags",
+    "asset_management-v1-AssetManagementService/AssetType": "AssetType",
+    "asset_management-v1-AssetManagementService/AssetTypes": "AssetTypes",
+    "asset_management-v1-AssetManagementService/Assets": "Assets",
+    "asset_management-v1-AssetManagementService/DeleteAssetTag": "DeleteAssetTag",
+    "asset_management-v1-AssetManagementService/DeleteAssets": "DeleteAssets",
+    "asset_management-v1-AssetManagementService/DeleteFile": "DeleteFile",
+    "asset_management-v1-AssetManagementService/DeleteSharedScheduling": "DeleteSharedScheduling",
+    "asset_management-v1-AssetManagementService/SaveAsset": "SaveAsset",
+    "asset_management-v1-AssetManagementService/SaveAssetTag": "SaveAssetTag",
+    "asset_management-v1-AssetManagementService/SaveSharedScheduling": "SaveSharedScheduling",
+    "asset_management-v1-AssetManagementService/SharedScheduling": "SharedScheduling",
+    "asset_management-v1-AssetManagementService/SharedSchedulings": "SharedSchedulings",
+    "asset_management-v1-AssetManagementService/UnitsAssignments": "UnitsAssignments",
+    "asset_management-v1-AssetManagementService/UpdateUnitAssets": "UpdateUnitAssets",
+    "asset_management-v1-AssetManagementService/UploadFile": "UploadFile"
+  }
+}

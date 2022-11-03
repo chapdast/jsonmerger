@@ -1,0 +1,12 @@
+{
+  "user_management-v1-UserManagerService": {
+    "user_management-v1-UserManagerService": "UserManagerService",
+    "user_management-v1-UserManagerService/CreateUser": "CreateUser",
+    "user_management-v1-UserManagerService/DeleteUser": "DeleteUser",
+    "user_management-v1-UserManagerService/RemoveUserPhoto": "RemoveUserPhoto",
+    "user_management-v1-UserManagerService/UpdateUser": "UpdateUser",
+    "user_management-v1-UserManagerService/UploadUserPhoto": "UploadUserPhoto",
+    "user_management-v1-UserManagerService/User": "User",
+    "user_management-v1-UserManagerService/Users": "Users"
+  }
+}

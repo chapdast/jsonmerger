@@ -1,0 +1,19 @@
+{
+  "planning-v1-PlanningService": {
+    "planning-v1-PlanningService": "PlanningService",
+    "planning-v1-PlanningService/CreateMission": "CreateMission",
+    "planning-v1-PlanningService/DeleteMission": "DeleteMission",
+    "planning-v1-PlanningService/DeleteMissionTag": "DeleteMissionTag",
+    "planning-v1-PlanningService/DeleteRoute": "DeleteRoute",
+    "planning-v1-PlanningService/Mission": "Mission",
+    "planning-v1-PlanningService/MissionTags": "MissionTags",
+    "planning-v1-PlanningService/Missions": "Missions",
+    "planning-v1-PlanningService/PlannedMissions": "PlannedMissions",
+    "planning-v1-PlanningService/Route": "Route",
+    "planning-v1-PlanningService/Routes": "Routes",
+    "planning-v1-PlanningService/SaveMissionTag": "SaveMissionTag",
+    "planning-v1-PlanningService/SaveRoute": "SaveRoute",
+    "planning-v1-PlanningService/UpdateMission": "UpdateMission",
+    "planning-v1-PlanningService/UpdatePlannedMission": "UpdatePlannedMission"
+  }
+}

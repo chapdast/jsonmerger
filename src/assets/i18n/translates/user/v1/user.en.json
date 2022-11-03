@@ -1,0 +1,14 @@
+{
+  "user-v1-UserService": {
+    "user-v1-UserService": "UserService",
+    "user-v1-UserService/RemoveUserPhoto": "RemoveUserPhoto",
+    "user-v1-UserService/ResetPassword": "ResetPassword",
+    "user-v1-UserService/SignIn": "SignIn",
+    "user-v1-UserService/SignOut": "SignOut",
+    "user-v1-UserService/UpdateUserProfile": "UpdateUserProfile",
+    "user-v1-UserService/UploadUserPhoto": "UploadUserPhoto",
+    "user-v1-UserService/UserLanguage": "UserLanguage",
+    "user-v1-UserService/UserPermissions": "UserPermissions",
+    "user-v1-UserService/UserProfile": "UserProfile"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "permission_management-v1-PermissionManagerService": {
+    "permission_management-v1-PermissionManagerService": "PermissionManagerService",
+    "permission_management-v1-PermissionManagerService/CreatePermissionGroup": "CreatePermissionGroup",
+    "permission_management-v1-PermissionManagerService/PermissionGroupLevels": "PermissionGroupLevels",
+    "permission_management-v1-PermissionManagerService/PermissionGroups": "PermissionGroups",
+    "permission_management-v1-PermissionManagerService/Permissions": "Permissions",
+    "permission_management-v1-PermissionManagerService/RemovePermissionGroup": "RemovePermissionGroup",
+    "permission_management-v1-PermissionManagerService/UpdatePermissionGroup": "UpdatePermissionGroup"
+  }
+}

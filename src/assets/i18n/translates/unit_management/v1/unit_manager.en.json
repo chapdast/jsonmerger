@@ -1,0 +1,27 @@
+{
+  "unit_management-v1-UnitManagementService": {
+    "unit_management-v1-UnitManagementService": "UnitManagementService",
+    "unit_management-v1-UnitManagementService/ArchiveUnit": "ArchiveUnit",
+    "unit_management-v1-UnitManagementService/CameraDvrTypes": "CameraDvrTypes",
+    "unit_management-v1-UnitManagementService/CameraDvrs": "CameraDvrs",
+    "unit_management-v1-UnitManagementService/CreateCameraDvr": "CreateCameraDvr",
+    "unit_management-v1-UnitManagementService/CustomFields": "CustomFields",
+    "unit_management-v1-UnitManagementService/DeleteCameraDvr": "DeleteCameraDvr",
+    "unit_management-v1-UnitManagementService/DeleteFile": "DeleteFile",
+    "unit_management-v1-UnitManagementService/DeleteUnit": "DeleteUnit",
+    "unit_management-v1-UnitManagementService/DeleteUnitTag": "DeleteUnitTag",
+    "unit_management-v1-UnitManagementService/DeviceTypes": "DeviceTypes",
+    "unit_management-v1-UnitManagementService/InitializeUnit": "InitializeUnit",
+    "unit_management-v1-UnitManagementService/Metrics": "Metrics",
+    "unit_management-v1-UnitManagementService/SaveUnitTag": "SaveUnitTag",
+    "unit_management-v1-UnitManagementService/SaveUserAuthorizedUnits": "SaveUserAuthorizedUnits",
+    "unit_management-v1-UnitManagementService/UnarchiveUnit": "UnarchiveUnit",
+    "unit_management-v1-UnitManagementService/Unit": "Unit",
+    "unit_management-v1-UnitManagementService/UnitTags": "UnitTags",
+    "unit_management-v1-UnitManagementService/Units": "Units",
+    "unit_management-v1-UnitManagementService/UpdateCameraDvr": "UpdateCameraDvr",
+    "unit_management-v1-UnitManagementService/UpdateUnit": "UpdateUnit",
+    "unit_management-v1-UnitManagementService/UploadFile": "UploadFile",
+    "unit_management-v1-UnitManagementService/UserAuthorizedUnits": "UserAuthorizedUnits"
+  }
+}
